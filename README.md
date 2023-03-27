@@ -1,5 +1,5 @@
-# Medical Management Application
-# Spring Data, JPA, and Hibernate
+## Medical Management Application
+## Spring Data, JPA, and Hibernate
 
 This is a Spring Boot application that allows you to manage patients, appointments, consultations, and doctors in a medical office. 
 This application uses Spring Data, JPA, and Hibernate to manage the database and handle the associations between entities.
