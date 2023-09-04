@@ -12,7 +12,7 @@ To use this application, you need to have a MySQL database and configure the con
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/medical
 spring.datasource.username=root
-spring.datasource.password=secret
+spring.datasource.password=
 ```
 
 ## Running the application
